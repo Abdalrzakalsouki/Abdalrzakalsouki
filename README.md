@@ -12,8 +12,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/abdulrazzakalsssouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrazzakalsssouki" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abdulrazzak alsssouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdulrazzak alsssouki" height="30" width="40" /></a>
-<a href="https://fb.com/abdalrzak alsouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdalrzak alsouki" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11208815/abdulrazzak-alsssouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdulrazzak alsssouki" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdalrzak.asoki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdalrzak alsouki" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdalrzakalsouki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdalrzakalsouki" height="30" width="40" /></a>
 </p>
 
