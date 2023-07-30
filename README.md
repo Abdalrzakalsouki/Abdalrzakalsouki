@@ -6,9 +6,9 @@
 
 - 🔭 I'm looking for new opportunity **Full-time, internship, traning**
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **Next.js and CI/CD**
 
-- 👨‍💻 All of my projects are available at https://github.com/Abdalrzakalsouki
+- 👨‍💻 All of my projects are available at https://abdulrazzakalsssouki.vercel.app
 
 - 📫 How to reach me **abdulrzakalsssouki@gmail.com**
 
