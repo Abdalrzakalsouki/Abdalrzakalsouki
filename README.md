@@ -61,7 +61,7 @@
 
   <!-- Next.js (white container) -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="background:#fff; padding:4px; border-radius:6px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" alt="nextjs" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="50" height="45"/>
   </a>
 
 </p>
