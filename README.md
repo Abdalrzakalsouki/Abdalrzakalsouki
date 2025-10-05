@@ -16,81 +16,55 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/abdulrazzakalsssouki" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/11208815/abdulrazzak-alsssouki" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/abdalrzak.asoki/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/abdalrzakalsouki" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="40"/>
+  <!-- Bootstrap (white container for contrast) -->
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="background:#fff; padding:4px; border-radius:6px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="50" height="40"/>
   </a>
 
   <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="40"/>
-  </a>
-
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="50" height="40"/>
   </a>
 
   <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="40"/>
   </a>
 
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/>
-  </a>
-
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="background:#fff; padding:5px; border-radius:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="40"/>
-  </a>
-
-  <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="background:#fff; padding:5px; border-radius:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-native" width="50" height="40"/>
-  </a>
-
-  <!-- Expo -->
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer" style="background:#fff; padding:5px; border-radius:8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Expo_logo_2019.svg/1200px-Expo_logo_2019.svg.png" alt="expo" width="50" height="40"/>
-  </a>
-
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="background:#fff; padding:5px; border-radius:8px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="50" height="40"/>
   </a>
 
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height "40"/>
+  </a>
+
+  <!-- React (white container) -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="background:#fff; padding:4px; border-radius:6px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="50" height="40"/>
+  </a>
+
+  <!-- React Native (white container) -->
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="background:#fff; padding:4px; border-radius:6px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" width="55" height="55"/>
+  </a>
+
+  <!-- Expo (white container, using a white-version or PNG) -->
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer" style="background:#fff; padding:4px; border-radius:6px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" alt="expo" width="50" height="40"/>
+  </a>
+
+  <!-- Next.js (white container) -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="background:#fff; padding:4px; border-radius:6px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" alt="nextjs" width="50" height="50"/>
   </a>
 
 </p>
+
+
 
