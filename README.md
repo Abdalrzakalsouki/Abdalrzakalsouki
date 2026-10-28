@@ -24,7 +24,6 @@ Frontend developer based in the Netherlands. I build web and mobile apps with Re
 - [**Portfolio**](https://github.com/Abdalrzakalsouki/Portfolio): my portfolio site, live at [abdulrazzakalsssouki.vercel.app](https://abdulrazzakalsssouki.vercel.app)
 - [**UI**](https://github.com/Abdalrzakalsouki/UI): website templates, components and small front-end apps
 - [**API**](https://github.com/Abdalrzakalsouki/API): small REST APIs in Node.js, TypeScript and ASP.NET Core
-- [**WriterBot**](https://github.com/Abdalrzakalsouki/WriterBot): chatbot for writing tasks
 
 ## Contact
 
