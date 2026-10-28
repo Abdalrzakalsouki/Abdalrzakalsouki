@@ -1,70 +1,31 @@
-<h1 align="center">Hi 👋, I'm Abdulrazzak Alsssouki</h1>
+# Hi, I'm Abdulrazzak 👋
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Creative+Frontend+Developer;React+%7C+React+Native+%7C+Expo+%7C+Next.js;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Always+learning+and+building+real+projects&center=true&width=500&height=50">
-  </a>
-</p>
+Frontend developer based in the Netherlands. I build web and mobile apps with React, React Native and Next.js, and I'm growing towards the full picture: how systems are designed, how data is modelled and how software gets shipped.
 
-- 🌱 I’m currently learning **AI Engineering**
+## Currently learning
 
-- 💼 I build responsive and user-focused front-end apps with **React**, **React Native**, **Expo**, and **Next.js**
+- **Software architecture**: structuring apps so they stay easy to change
+- **Database design**: data modelling, relations, indexing and migrations
+- **DevOps**: CI/CD, containers and deployment
 
-- 👨‍💻 All of my projects are available at [**Portfolio Website**](https://abdulrazzakalsssouki.vercel.app)
+## What I work with
 
-- 📫 Reach me at **abdulrzakalsssouki@gmail.com**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
+## Projects
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+- [**Portfolio**](https://github.com/Abdalrzakalsouki/Portfolio): my portfolio site, live at [abdulrazzakalsssouki.vercel.app](https://abdulrazzakalsssouki.vercel.app)
+- [**UI**](https://github.com/Abdalrzakalsouki/UI): website templates, components and small front-end apps
+- [**API**](https://github.com/Abdalrzakalsouki/API): small REST APIs in Node.js, TypeScript and ASP.NET Core
+- [**WriterBot**](https://github.com/Abdalrzakalsouki/WriterBot): chatbot for writing tasks
 
-  <!-- Bootstrap (white container for contrast) -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="background:#fff; padding:4px; border-radius:6px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="50" height="40"/>
-  </a>
+## Contact
 
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="50" height="40"/>
-  </a>
-
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" height="40"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="50" height="40"/>
-  </a>
-
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height "40"/>
-  </a>
-
-  <!-- React (white container) -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="background:#fff; padding:4px; border-radius:6px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="50" height="40"/>
-  </a>
-
-  <!-- React Native (white container) -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="background:#fff; padding:4px; border-radius:6px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" width="55" height="55"/>
-  </a>
-
-  <!-- Expo (white container, using a white-version or PNG) -->
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer" style="background:#fff; padding:4px; border-radius:6px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" alt="expo" width="50" height="40"/>
-  </a>
-
-  <!-- Next.js (white container) -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="background:#fff; padding:4px; border-radius:6px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="50" height="45"/>
-  </a>
-
-</p>
-
-
-
+📫 abdulrzakalsssouki@gmail.com
